@@ -1,0 +1,298 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aspexi Sweet Popups\n"
+"POT-Creation-Date: 2016-01-13 16:30+0100\n"
+"PO-Revision-Date: 2015-11-17 08:47+0100\n"
+"Last-Translator: Krzysztof Dryja <dryja@aspexi.com>\n"
+"Language-Team: Aspexi Ltd. <support@aspexi.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: aspexi-sweet-popups.php:64
+msgid "Aspexi Sweet Popups"
+msgstr ""
+
+#: aspexi-sweet-popups.php:183
+msgid "Get PRO version"
+msgstr ""
+
+#: aspexi-sweet-popups.php:192 aspexi-sweet-popups.php:278
+msgid "Settings"
+msgstr ""
+
+#: aspexi-sweet-popups.php:224
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: aspexi-sweet-popups.php:230
+msgid "Wrong or missing status. Available statuses: enabled and disabled. Settings not saved."
+msgstr ""
+
+#: aspexi-sweet-popups.php:234
+msgid "Wrong or missing theme. Available themes: Default, Facebook, Google, Twitter. Settings not saved."
+msgstr ""
+
+#: aspexi-sweet-popups.php:238
+msgid "Wrong icon type. Available types: empty, warning, error, success, info. Settings not saved."
+msgstr ""
+
+#: aspexi-sweet-popups.php:246 aspexi-sweet-popups.php:250
+msgid "Missing Popup content. Settings not saved."
+msgstr ""
+
+#: aspexi-sweet-popups.php:269
+msgid "Settings saved."
+msgstr ""
+
+#: aspexi-sweet-popups.php:276
+msgid "Aspexi Sweet Popups Settings"
+msgstr ""
+
+#: aspexi-sweet-popups.php:279
+msgid "Shortcode"
+msgstr ""
+
+#: aspexi-sweet-popups.php:280
+msgid "Newsletter"
+msgstr ""
+
+#: aspexi-sweet-popups.php:296
+msgid "Avaliable options (accepted values separated by \"|\")"
+msgstr ""
+
+#: aspexi-sweet-popups.php:319
+msgid "Example 1"
+msgstr ""
+
+#: aspexi-sweet-popups.php:322
+msgid "Example 2"
+msgstr ""
+
+#: aspexi-sweet-popups.php:325
+msgid "Example 3"
+msgstr ""
+
+#: aspexi-sweet-popups.php:336
+msgid "MailChimp"
+msgstr ""
+
+#: aspexi-sweet-popups.php:341
+msgid "MailChimp Integration"
+msgstr ""
+
+#: aspexi-sweet-popups.php:345
+msgid "MailChimp API Key"
+msgstr ""
+
+#: aspexi-sweet-popups.php:352
+msgid "MailChimp Lists"
+msgstr ""
+
+#: aspexi-sweet-popups.php:360
+msgid "Enable Double Opt-In"
+msgstr ""
+
+#: aspexi-sweet-popups.php:367
+msgid "To display MailChimp write shortocde in popup content"
+msgstr ""
+
+#: aspexi-sweet-popups.php:377 aspexi-sweet-popups.php:407
+#: aspexi-sweet-popups.php:695
+msgid "Save settings"
+msgstr ""
+
+#: aspexi-sweet-popups.php:383
+msgid "Write your button text"
+msgstr ""
+
+#: aspexi-sweet-popups.php:390
+msgid "Success message"
+msgstr ""
+
+#: aspexi-sweet-popups.php:397
+msgid "Error message"
+msgstr ""
+
+#: aspexi-sweet-popups.php:416
+msgid "Basic"
+msgstr ""
+
+#: aspexi-sweet-popups.php:422
+msgid "Sweet Popups"
+msgstr ""
+
+#: aspexi-sweet-popups.php:426
+msgid "Enabled"
+msgstr ""
+
+#: aspexi-sweet-popups.php:427
+msgid "Disabled"
+msgstr ""
+
+#: aspexi-sweet-popups.php:433
+msgid "Show only on the home page"
+msgstr ""
+
+#: aspexi-sweet-popups.php:441
+msgid "Show when user reaches bottom of the page"
+msgstr ""
+
+#: aspexi-sweet-popups.php:450
+msgid "Popup title"
+msgstr ""
+
+#: aspexi-sweet-popups.php:458
+msgid "Popup content"
+msgstr ""
+
+#: aspexi-sweet-popups.php:462
+msgid "You can use simple HTML and shortcodes."
+msgstr ""
+
+#: aspexi-sweet-popups.php:467
+msgid "Show only once per user (based on cookies)"
+msgstr ""
+
+#: aspexi-sweet-popups.php:475
+msgid "Cookie lifetime (in days)"
+msgstr ""
+
+#: aspexi-sweet-popups.php:478
+msgid "If omitted or zero, the cookie will expire at the end of the session."
+msgstr ""
+
+#: aspexi-sweet-popups.php:488
+msgid "Look & Feel"
+msgstr ""
+
+#: aspexi-sweet-popups.php:494
+msgid "Theme"
+msgstr ""
+
+#: aspexi-sweet-popups.php:501
+msgid "Default"
+msgstr ""
+
+#: aspexi-sweet-popups.php:522
+msgid "Icon type"
+msgstr ""
+
+#: aspexi-sweet-popups.php:528
+msgid "Empty"
+msgstr ""
+
+#: aspexi-sweet-popups.php:534
+msgid "Info"
+msgstr ""
+
+#: aspexi-sweet-popups.php:540
+msgid "Warning"
+msgstr ""
+
+#: aspexi-sweet-popups.php:546
+msgid "Success"
+msgstr ""
+
+#: aspexi-sweet-popups.php:552
+msgid "Error"
+msgstr ""
+
+#: aspexi-sweet-popups.php:559
+msgid "Select close button"
+msgstr ""
+
+#: aspexi-sweet-popups.php:566
+msgid "Close button"
+msgstr ""
+
+#: aspexi-sweet-popups.php:571
+msgid "Close icon"
+msgstr ""
+
+#: aspexi-sweet-popups.php:574
+msgid "You can add own element with class \"close-sweet-popup\" which close popup"
+msgstr ""
+
+#: aspexi-sweet-popups.php:579
+msgid "Close button color"
+msgstr ""
+
+#: aspexi-sweet-popups.php:599
+msgid "Show Facebook Like Button"
+msgstr ""
+
+#: aspexi-sweet-popups.php:608
+msgid "Like Button URL"
+msgstr ""
+
+#: aspexi-sweet-popups.php:616
+msgid "Any"
+msgstr ""
+
+#: aspexi-sweet-popups.php:617
+msgid "Site url"
+msgstr ""
+
+#: aspexi-sweet-popups.php:618
+msgid "Page url"
+msgstr ""
+
+#: aspexi-sweet-popups.php:625
+msgid "Like Button Layout"
+msgstr ""
+
+#: aspexi-sweet-popups.php:658
+msgid "Advanced"
+msgstr ""
+
+#: aspexi-sweet-popups.php:663
+msgid "Auto open"
+msgstr ""
+
+#: aspexi-sweet-popups.php:666
+msgid "Auto open after"
+msgstr ""
+
+#: aspexi-sweet-popups.php:666
+msgid "milliseconds (1000 milliseconds = 1 second)"
+msgstr ""
+
+#: aspexi-sweet-popups.php:671
+msgid "Auto open when user reaches element"
+msgstr ""
+
+#: aspexi-sweet-popups.php:674
+msgid "Auto open when user reaches"
+msgstr ""
+
+#: aspexi-sweet-popups.php:674
+msgid "(jQuery selector for example #element_id, .some_class)"
+msgstr ""
+
+#: aspexi-sweet-popups.php:679
+msgid "Auto open when user reaches position"
+msgstr ""
+
+#: aspexi-sweet-popups.php:682
+msgid "Auto open when user is"
+msgstr ""
+
+#: aspexi-sweet-popups.php:684
+msgid "Top"
+msgstr ""
+
+#: aspexi-sweet-popups.php:685
+msgid "Bottom"
+msgstr ""
+
+#: aspexi-sweet-popups.php:696
+msgid "Preview"
+msgstr ""

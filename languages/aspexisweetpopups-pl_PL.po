@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aspexi Sweet Popups\n"
+"POT-Creation-Date: 2016-01-15 13:24+0100\n"
+"PO-Revision-Date: 2016-01-15 13:25+0100\n"
+"Last-Translator: Krzysztof Dryja <dryja@aspexi.com>\n"
+"Language-Team: Aspexi Ltd. <support@aspexi.com>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;__ngettext:1,2;_n:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: aspexi-sweet-popups.php:64
+msgid "Aspexi Sweet Popups"
+msgstr "Aspexi Sweet Popups"
+
+#: aspexi-sweet-popups.php:161
+msgid "Unsaved changes!"
+msgstr "Potwierdzenie opuszczenia strony"
+
+#: aspexi-sweet-popups.php:162
+msgid "If you leave this page now the changes you have made may be lost."
+msgstr "Jeśli teraz opuścisz tę stronę wprowadzone zmiany zostaną utracone."
+
+#: aspexi-sweet-popups.php:163
+msgid "Stay and continue"
+msgstr "Pozostań i kontynuuj"
+
+#: aspexi-sweet-popups.php:164
+msgid "Drop changes and leave"
+msgstr "Opuść bez zapisywania"
+
+#: aspexi-sweet-popups.php:175
+msgid "Get PRO version"
+msgstr "Wersja PRO"
+
+#: aspexi-sweet-popups.php:184 aspexi-sweet-popups.php:265
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: aspexi-sweet-popups.php:216
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nie masz uprawnień dla tej strony."
+
+#: aspexi-sweet-popups.php:222
+msgid ""
+"Wrong or missing status. Available statuses: enabled and disabled. Settings "
+"not saved."
+msgstr ""
+"Brak lub błędny status. Dostępne statusy to: włączony oraz wyłączony. Nie "
+"zapisano."
+
+#: aspexi-sweet-popups.php:226
+msgid ""
+"Wrong icon type. Available types: empty, warning, error, success, info. "
+"Settings not saved."
+msgstr ""
+"Nieprawidłowy typ ikony. Dostępny typy: pusty, ostrzeżenie, błąd, sukces, "
+"informacja. Nie zapisano."
+
+#: aspexi-sweet-popups.php:234 aspexi-sweet-popups.php:238
+msgid "Missing Popup content. Settings not saved."
+msgstr "Puste pole treść okienka. Nie zapisano."
+
+#: aspexi-sweet-popups.php:256
+msgid "Settings saved."
+msgstr "Zapisano."
+
+#: aspexi-sweet-popups.php:263
+msgid "Aspexi Sweet Popups Settings"
+msgstr "Aspexi Sweet Popups Ustawienia"
+
+#: aspexi-sweet-popups.php:266
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: aspexi-sweet-popups.php:267
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: aspexi-sweet-popups.php:283
+msgid "Avaliable options (accepted values separated by \"|\")"
+msgstr "Dostępne opcje (akceptowalne wartości oddzielone znakiem ”|”)"
+
+#: aspexi-sweet-popups.php:306
+msgid "Example 1"
+msgstr "Przykład 1"
+
+#: aspexi-sweet-popups.php:309
+msgid "Example 2"
+msgstr "Przykład 2"
+
+#: aspexi-sweet-popups.php:312
+msgid "Example 3"
+msgstr "Przykład 3"
+
+#: aspexi-sweet-popups.php:323
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: aspexi-sweet-popups.php:328
+msgid "MailChimp Integration"
+msgstr "Integracja MailChimp"
+
+#: aspexi-sweet-popups.php:332
+msgid "MailChimp API Key"
+msgstr "MailChimp klucz API"
+
+#: aspexi-sweet-popups.php:339
+msgid "MailChimp Lists"
+msgstr "Listy MailChimp"
+
+#: aspexi-sweet-popups.php:347
+msgid "Enable Double Opt-In"
+msgstr "Włącz opcje „Opt-In”"
+
+#: aspexi-sweet-popups.php:354
+msgid "To display MailChimp write shortocde in popup content"
+msgstr "Aby wyświetlić MailChimp dodaj shortcode w treści popupa"
+
+#: aspexi-sweet-popups.php:364 aspexi-sweet-popups.php:394
+#: aspexi-sweet-popups.php:688
+msgid "Save settings"
+msgstr "Zapisz ustawienia"
+
+#: aspexi-sweet-popups.php:370
+msgid "Write your button text"
+msgstr "Wpisz tekst przycisku"
+
+#: aspexi-sweet-popups.php:377
+msgid "Success message"
+msgstr "Wiadomość powodzenia"
+
+#: aspexi-sweet-popups.php:384
+msgid "Error message"
+msgstr "Wiadomość niepowodzenia"
+
+#: aspexi-sweet-popups.php:403
+msgid "Basic"
+msgstr "Podstawowe"
+
+#: aspexi-sweet-popups.php:409
+msgid "Sweet Popups"
+msgstr "Sweet Popups"
+
+#: aspexi-sweet-popups.php:413
+msgid "Enabled"
+msgstr "Włączony"
+
+#: aspexi-sweet-popups.php:414
+msgid "Disabled"
+msgstr "Wyłączony"
+
+#: aspexi-sweet-popups.php:420
+msgid "Show only on the home page"
+msgstr "Pokazuj tylko na stronie głównej"
+
+#: aspexi-sweet-popups.php:428
+msgid "Show when user reaches bottom of the page"
+msgstr "Pokaż gdy użytkownik przejdzie do dołu strony"
+
+#: aspexi-sweet-popups.php:437
+msgid "Popup title"
+msgstr "Nagłówek okienka"
+
+#: aspexi-sweet-popups.php:445
+msgid "Popup content"
+msgstr "Treść okienka"
+
+#: aspexi-sweet-popups.php:449
+msgid "You can use simple HTML and shortcodes."
+msgstr "Możesz użyć uproszczonego HTML lub shortcode."
+
+#: aspexi-sweet-popups.php:454
+msgid "Show only once per user (based on cookies)"
+msgstr "Pokazuj tylko raz (oparte na ciasteczkach)"
+
+#: aspexi-sweet-popups.php:462
+msgid "Cookie lifetime (in days)"
+msgstr "Czas życia ciasteczka (dni)"
+
+#: aspexi-sweet-popups.php:465
+msgid "If omitted or zero, the cookie will expire at the end of the session."
+msgstr ""
+"Jeśli puste lub zero to czas życia ciasteczka zakończy się razem z "
+"zakończeniem sesji."
+
+#: aspexi-sweet-popups.php:475
+msgid "Look & Feel"
+msgstr "Wygląd"
+
+#: aspexi-sweet-popups.php:481
+msgid "Theme"
+msgstr "Szablon"
+
+#: aspexi-sweet-popups.php:488
+msgid "Default"
+msgstr "Domyślna"
+
+#: aspexi-sweet-popups.php:510
+msgid "Icon type"
+msgstr "Typ ikony"
+
+#: aspexi-sweet-popups.php:517
+msgid "Empty"
+msgstr "Pusty"
+
+#: aspexi-sweet-popups.php:523
+msgid "Info"
+msgstr "Informacja"
+
+#: aspexi-sweet-popups.php:529
+msgid "Warning"
+msgstr "Ostrzeżenie"
+
+#: aspexi-sweet-popups.php:535
+msgid "Success"
+msgstr "Sukces"
+
+#: aspexi-sweet-popups.php:541
+msgid "Error"
+msgstr "Błąd"
+
+#: aspexi-sweet-popups.php:549
+msgid "Select close button"
+msgstr "Wybierz przycisk zamykania"
+
+#: aspexi-sweet-popups.php:556
+msgid "Button"
+msgstr "Przycisk"
+
+#: aspexi-sweet-popups.php:561
+msgid "Icon"
+msgstr "Ikona"
+
+#: aspexi-sweet-popups.php:564
+msgid ""
+"You can add own element with class \"close-sweet-popup\" which close popup"
+msgstr ""
+"Możesz dodać własny element z klasą „close-sweet-popup”, który zamknie "
+"okienko"
+
+#: aspexi-sweet-popups.php:569
+msgid "Close button color"
+msgstr "Kolor przycisku zamykania"
+
+#: aspexi-sweet-popups.php:573
+msgid ""
+"This will apply to the button color as well as long as the default theme is "
+"used."
+msgstr "Kolor przycisku będzie taki sam jeśli wybrano domyślną skórkę."
+
+#: aspexi-sweet-popups.php:590
+msgid "Show Facebook Like Button"
+msgstr "Pokaż przycisk „Lubię to!”"
+
+#: aspexi-sweet-popups.php:599
+msgid "Like Button URL"
+msgstr "Adres przycisku „Lubię to!”"
+
+#: aspexi-sweet-popups.php:607
+msgid "Any"
+msgstr "Dowolny"
+
+#: aspexi-sweet-popups.php:608
+msgid "Site url"
+msgstr "Adres sieci"
+
+#: aspexi-sweet-popups.php:609
+msgid "Page url"
+msgstr "Adres strony"
+
+#: aspexi-sweet-popups.php:616
+msgid "Like Button Layout"
+msgstr "Layout przycisku „Lubię to!”"
+
+#: aspexi-sweet-popups.php:651
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: aspexi-sweet-popups.php:656
+msgid "Auto open"
+msgstr "Autootwieranie"
+
+#: aspexi-sweet-popups.php:659
+msgid "Auto open after"
+msgstr "Automatycznie otwórz po"
+
+#: aspexi-sweet-popups.php:659
+msgid "milliseconds (1000 milliseconds = 1 second)"
+msgstr "milisekundy (1000 milisekund = 1 sekunda)"
+
+#: aspexi-sweet-popups.php:664
+msgid "Auto open when user reaches element"
+msgstr "Otwórz automatycznie gdy użytkownik zobaczy element"
+
+#: aspexi-sweet-popups.php:667
+msgid "Auto open when user reaches"
+msgstr "Otwórz automatycznie gdy użytkownik przejdzie do"
+
+#: aspexi-sweet-popups.php:667
+msgid "(jQuery selector for example #element_id, .some_class)"
+msgstr "(Selektor jQuery np.: #element_id, .jakaś_klasa)"
+
+#: aspexi-sweet-popups.php:672
+msgid "Auto open when user reaches position"
+msgstr "Otwórz automatycznie gdy użytkownik przewinie do pozycji"
+
+#: aspexi-sweet-popups.php:675
+msgid "Auto open when user is"
+msgstr "Automatycznie otwórz gdy użytkownik jest"
+
+#: aspexi-sweet-popups.php:677
+msgid "Top"
+msgstr "Góry"
+
+#: aspexi-sweet-popups.php:678
+msgid "Bottom"
+msgstr "Dołu"
+
+#: aspexi-sweet-popups.php:689
+msgid "Preview"
+msgstr "Podgląd"
+
+#~ msgid ""
+#~ "Wrong or missing theme. Available themes: Default, Facebook, Google, "
+#~ "Twitter. Settings not saved."
+#~ msgstr ""
+#~ "Nie prawidłowa skórka. Dostępne skórki to: Domyślna, Facebook, Google i "
+#~ "Twitter. Ustawienia niezapisane."
+
+#~ msgid "Close button"
+#~ msgstr "Przycisk zamknij"
+
+#~ msgid "Close icon"
+#~ msgstr "Przycisk z ikonką"
+
+#~ msgid "Select theme"
+#~ msgstr "Wybierz skórkę"
+
+#~ msgid "Show only on the bottom"
+#~ msgstr "Pokazuj tylko na dole strony"
+
+#~ msgid "Button OK"
+#~ msgstr "Przycisk OK"
+
+#~ msgid "Cross"
+#~ msgstr "Krzyżyk"
